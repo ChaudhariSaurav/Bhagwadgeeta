@@ -1,11 +1,7 @@
-import BhagavadGitaChapters from "./pages/chapterList";
+// import BhagavadGitaChapters from "./pages/chapterList";
 
-function App() {
-  return (
-    <div>
-      <BhagavadGitaChapters />
-    </div>
-  );
+async function App() {
+  return <div>{/* <BhagavadGitaChapters /> */}</div>;
 }
 
 export default App;

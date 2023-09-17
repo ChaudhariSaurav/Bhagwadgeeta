@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+body {
+  background: url(./assets/flower.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -43,4 +50,9 @@
 
 h3 {
   text-align: center;
+}
+
+.verse_text {
+  font-family: "Mooli", sans-serif;
+  font-weight: bold;
 }
