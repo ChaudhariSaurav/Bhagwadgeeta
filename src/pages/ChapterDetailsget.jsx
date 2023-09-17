@@ -50,7 +50,7 @@ function ChapterDetailsget() {
   return (
     <div>
       {loading ? (
-        <div className="flex-col text-center mt-5 justify-center items-center place-content-center">
+        <div className="flex justify-center items-center h-screen">
           <svg
             aria-hidden="true"
             className="w-8 h-8 mr-2 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"

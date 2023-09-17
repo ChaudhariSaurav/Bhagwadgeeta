@@ -5,7 +5,8 @@
   text-align: center;
 }
 
-body {
+body,
+html {
   background: url(./assets/flower.svg);
   background-position: center;
   background-repeat: no-repeat;
